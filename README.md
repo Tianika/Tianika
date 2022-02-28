@@ -18,6 +18,8 @@
 
 [Momentum](https://rolling-scopes-school.github.io/tianika-JSFE2021Q3/momentum/) is an analogue of the Chrome Web Store app of the same name. 
 
+[Async race](https://rolling-scopes-school.github.io/tianika-JSFE2021Q3/async-race/) is SPA to manage the collection of the cars, operate its engines, and show races statistics. Need a [server](https://github.com/mikhama/async-race-api) to run.
+
 and others
 
 <!-- - 📫 How to reach me: ...-->
