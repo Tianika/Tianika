@@ -8,6 +8,8 @@
 
 - 💬  I have several completed projects.
 
+[Project management app](https://pma-team38.netlify.app/) The project management system is a small analogue of Trello. The project uses React, Typescript, Redux Toolkit and create async thunk for asynchronous requests.
+
 [RS-Lang](https://rs-lang-tianika.netlify.app/) is an English language learning application. The project uses React, Typescript, Redux Toolkit, Saga.
 
 [Christmas game](https://rolling-scopes-school.github.io/tianika-JSFE2021Q3/christmas-task/) is a application that allows you to sort toys by name and number of copies, find a toy by name, group toys by type, add toys to favorites and remove them from favorites, as well as with an interactive page on which the selected toys can decorate the Christmas tree.
